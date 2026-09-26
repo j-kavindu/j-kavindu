@@ -1,27 +1,44 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:217346,100:F2C811&height=180&section=header&text=Kavindu%20Jayasinghe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Accounting%20%C2%B7%20Excel%20%C2%B7%20Power%20BI%20%C2%B7%20Financial%20Decisions&descAlignY=55&descSize=18" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:217346,100:F2C811&height=200&section=header&text=Hi,%20I'm%20Kavindu%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Accounting%20Undergraduate%20%C2%B7%20Excel%20%26%20Power%20BI%20Builder&descAlignY=55&descSize=18" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=217346&center=true&vCenter=true&width=600&lines=Turning+raw+numbers+into+clear+decisions;Excel+%2B+Power+BI+%2B+Financial+Reporting;Building+practical+accounting+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=217346&center=true&vCenter=true&width=650&lines=Turning+raw+numbers+into+clear+decisions;Excel+%2B+Power+BI+%2B+Financial+Reporting;Building+practical+accounting+tools;Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+%C2%B7+University+of+Sri+Jayewardenepura" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Accounting undergraduate · Excel & Power BI builder · Financial reporting enthusiast</strong><br>
-  Sri Lanka · University of Sri Jayewardenepura
+  <a href="https://github.com/j-kavindu"><img src="https://img.shields.io/badge/GitHub-j--kavindu-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/jkavindu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=j-kavindu&style=for-the-badge&color=F2C811&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <p align="center">
-  <a href="https://github.com/j-kavindu"><img src="https://img.shields.io/badge/GitHub-j--kavindu-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/jkavindu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Excel-Financial%20models-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Power%20BI-Business%20insights-F2C811?style=flat&logo=powerbi&logoColor=111111" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-Financial%20models-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20insights-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI">
+  <img src="https://img.shields.io/badge/QuickBooks-Bookkeeping-2CA01C?style=flat-square&logo=quickbooks&logoColor=white" alt="QuickBooks">
+  <img src="https://img.shields.io/badge/HTML%2FJS-Side%20projects-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/JS">
+</p>
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j-kavindu&theme=minimal&hide_border=true&area=true&color=217346&line=217346&point=F2C811" width="100%" alt="Activity graph">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-kavindu&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://streak-stats.demolab.com?user=j-kavindu&theme=default&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=j-kavindu&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" height="170">
+  <img src="https://streak-stats.demolab.com?user=j-kavindu&theme=default&hide_border=true" alt="GitHub Streak" height="170">
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=j-kavindu&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies">
+</p>
+
+<!-- Optional next-level touch: add the platane/snk GitHub Action to your repo
+     and it will generate an animated "snake" eating your contribution graph,
+     which you can embed here. See the note below the file for setup steps. -->
 
 ---
 
@@ -109,10 +126,12 @@ Public projects use fictional, synthetic, or anonymized data. Real personal, cli
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/jkavindu/)
-- [Facebook](https://web.facebook.com/j.kavindu/)
-- [GitHub](https://github.com/j-kavindu)
-- [Pinterest](https://pin.it/5s9MWIsW5)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jkavindu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://web.facebook.com/j.kavindu/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+  <a href="https://github.com/j-kavindu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://pin.it/5s9MWIsW5"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white"></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,100:217346&height=100&section=footer" width="100%">
