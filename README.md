@@ -1,37 +1,32 @@
 # Hi, I'm Kavindu 👋
 
-**Accounting undergraduate · University of Sri Jayewardenepura · Sri Lanka**
+**Accounting undergraduate at the University of Sri Jayewardenepura, Sri Lanka**
 
-I'm interested in connecting accounting knowledge with practical digital tools. My focus is on financial reporting, spreadsheet analysis, and making financial information easier to understand.
+I build practical tools that connect accounting, financial reporting, spreadsheets, and business analysis.
 
-### What I'm exploring
+## What I work on
 
-- Excel tools for organizing transactions and analyzing financial data
-- Clear, well-documented financial reporting workflows
-- Small projects that connect accounting concepts with everyday problems
+- Excel-based accounting and finance tools
+- Power BI-ready reporting structures
+- Budget, cash-flow, and profitability analysis
+- Clean documentation for business users
 
-### Portfolio project
+## Featured projects
 
-**[Personal Finance Tracker](https://github.com/j-kavindu/personal-finance-tracker)** — an Excel project for monthly income, expenses, and category analysis using 40 synthetic LKR transactions.
+| Project | Description |
+| --- | --- |
+| [Small Business Accounting Dashboard](https://github.com/j-kavindu/small-business-accounting-dashboard) | Income, expense, profit, receivables, and budget-vs-actual reporting |
+| [CSE Offline Excel Portfolio Tracker](https://github.com/j-kavindu/cse-offline-excel-portfolio-tracker) | Data-free CSE portfolio template with holdings, dividends, and target tracking |
+| [Personal Finance Tracker](https://github.com/j-kavindu/personal-finance-tracker) | Synthetic LKR income and expense tracker with monthly analysis |
 
-Includes a monthly dashboard, an editable chart, refund handling, calculation checks, and English and Sinhala usage guides. Built with AI assistance as a practical accounting learning project.
+## Tools and interests
 
-### Find me
+**Excel · Power BI · Financial Reporting · Management Accounting · Data Analysis · QuickBooks workflows**
 
-[GitHub · @j-kavindu](https://github.com/j-kavindu)
+I use synthetic or anonymized data in public projects. Real personal, client, bank, and business records stay private.
 
+## Connect
 
-<!--
-**j-kavindu/j-kavindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/jkavindu/)
+- [Facebook](https://web.facebook.com/j.kavindu/)
+- [GitHub](https://github.com/j-kavindu)
