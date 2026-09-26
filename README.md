@@ -1,29 +1,77 @@
-# Hi, I'm Kavindu 👋
+<p align="center">
+  <img src="./assets/profile-banner.gif" alt="Kavindu — accounting, data, and decisions" width="100%">
+</p>
 
-**Accounting undergraduate at the University of Sri Jayewardenepura, Sri Lanka**
+<p align="center">
+  <strong>Accounting undergraduate · Excel & Power BI builder · Financial reporting enthusiast</strong><br>
+  Sri Lanka · University of Sri Jayewardenepura
+</p>
 
-I build practical tools that connect accounting, financial reporting, spreadsheets, and business analysis.
+<p align="center">
+  <a href="https://github.com/j-kavindu"><img src="https://img.shields.io/badge/GitHub-j--kavindu-181717?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/jkavindu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Excel-Financial%20models-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20insights-F2C811?style=flat&logo=powerbi&logoColor=111111" alt="Power BI">
+</p>
 
-## What I work on
+## About me
 
-- Excel-based accounting and finance tools
-- Power BI-ready reporting structures
-- Budget, cash-flow, and profitability analysis
-- Clean documentation for business users
+I build practical tools that turn accounting data into clear business decisions. My projects focus on spreadsheets, financial reporting, budgeting, cash flow, profitability, and Power BI-ready analysis.
 
-## Featured projects
+## Featured work
 
-| Project | Description |
-| --- | --- |
-| [Small Business Accounting Dashboard](https://github.com/j-kavindu/small-business-accounting-dashboard) | Income, expense, profit, receivables, and budget-vs-actual reporting |
-| [CSE Offline Excel Portfolio Tracker](https://github.com/j-kavindu/cse-offline-excel-portfolio-tracker) | Data-free CSE portfolio template with holdings, dividends, and target tracking |
-| [Personal Finance Tracker](https://github.com/j-kavindu/personal-finance-tracker) | Synthetic LKR income and expense tracker with monthly analysis |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Tools and interests
+### 📊 Small Business Accounting
 
-**Excel · Power BI · Financial Reporting · Management Accounting · Data Analysis · QuickBooks workflows**
+Income, expenses, net profit, receivables, and budget-vs-actual reporting.
 
-I use synthetic or anonymized data in public projects. Real personal, client, bank, and business records stay private.
+**Excel · Power BI-ready**
+
+[View project →](https://github.com/j-kavindu/small-business-accounting-dashboard)
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 CSE Portfolio Tracker
+
+Data-free portfolio template for holdings, dividends, sectors, and targets.
+
+**Excel · Financial analysis**
+
+[View project →](https://github.com/j-kavindu/cse-offline-excel-portfolio-tracker)
+
+</td>
+<td width="33%" valign="top">
+
+### 💰 Personal Finance
+
+Synthetic LKR income and expense tracking with monthly analysis.
+
+**Excel · Dashboard design**
+
+[View project →](https://github.com/j-kavindu/personal-finance-tracker)
+
+</td>
+</tr>
+</table>
+
+## What I am building
+
+- Excel tools for accounting and financial analysis
+- Power BI dashboards for management reporting
+- Clear workflows for budgets, cash flow, and profitability
+- Practical projects that connect accounting concepts with everyday business problems
+
+## Tools
+
+Microsoft Excel · Power BI · Financial Reporting · Management Accounting · Data Analysis · QuickBooks workflows
+
+## Data and privacy
+
+Public projects use fictional, synthetic, or anonymized data. Real personal, client, bank, and business records remain private.
 
 ## Connect
 
