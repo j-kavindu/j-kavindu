@@ -10,11 +10,11 @@ I'm interested in connecting accounting knowledge with practical digital tools. 
 - Clear, well-documented financial reporting workflows
 - Small projects that connect accounting concepts with everyday problems
 
-### Planned portfolio project
+### Portfolio project
 
-**Personal Finance Tracker** — an Excel project for monthly income, expenses, and category analysis using synthetic LKR transactions.
+**[Personal Finance Tracker](https://github.com/j-kavindu/personal-finance-tracker)** — an Excel project for monthly income, expenses, and category analysis using 40 synthetic LKR transactions.
 
-My goal is to build a working example with clear instructions, checked calculations, and a useful summary dashboard.
+Includes a monthly dashboard, an editable chart, refund handling, calculation checks, and English and Sinhala usage guides. Built with AI assistance as a practical accounting learning project.
 
 ### Find me
 
