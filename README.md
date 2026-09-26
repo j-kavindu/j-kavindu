@@ -21,27 +21,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j-kavindu&theme=minimal&hide_border=true&area=true&color=217346&line=217346&point=F2C811" width="100%" alt="Activity graph">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-kavindu&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" height="170">
-  <img src="https://streak-stats.demolab.com?user=j-kavindu&theme=default&hide_border=true" alt="GitHub Streak" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=j-kavindu&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies">
-</p>
-
-<!-- Optional next-level touch: add the platane/snk GitHub Action to your repo
-     and it will generate an animated "snake" eating your contribution graph,
-     which you can embed here. See the note below the file for setup steps. -->
-
----
-
 ## About me
 
 I build practical tools that turn accounting data into clear business decisions. My projects focus on spreadsheets, financial reporting, budgeting, cash flow, profitability, and Power BI-ready analysis.
