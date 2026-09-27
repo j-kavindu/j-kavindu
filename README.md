@@ -68,6 +68,9 @@ Data-free portfolio template for holdings, dividends, sectors, and targets.
 [View project →](https://github.com/j-kavindu/cse-offline-excel-portfolio-tracker)
 
 </td>
+</tr>
+
+<tr>
 <td width="33%" valign="top">
 
 ### 💰 Personal Finance
@@ -79,9 +82,6 @@ Synthetic LKR income and expense tracking with monthly analysis.
 [View project →](https://github.com/j-kavindu/personal-finance-tracker)
 
 </td>
-</tr>
-
-<tr>
 <td width="33%" valign="top">
 
 ### 💱 USD → LKR Rate
