@@ -37,6 +37,17 @@ I build practical tools that turn accounting data into clear business decisions.
 <tr>
 <td width="33%" valign="top">
 
+### 📱 CSE Web Portfolio Tracker
+
+Installable portfolio ledger with manual prices, Google sign-in, Firestore storage, and local offline cache.
+
+**HTML · JavaScript · Firebase**
+
+[Open live app →](https://j-kavindu.github.io/cse-portfolio-tracker/) · [View code →](https://github.com/j-kavindu/cse-portfolio-tracker)
+
+</td>
+<td width="33%" valign="top">
+
 ### 📊 Small Business Accounting
 
 Income, expenses, net profit, receivables, and budget-vs-actual reporting.
@@ -89,17 +100,6 @@ A browser-based Sri Lankan rupee exchange-rate reference tool with USD conversio
 See the repositories tab for additional accounting and finance tools.
 
 [View all repositories →](https://github.com/j-kavindu?tab=repositories)
-
-</td>
-<td width="33%" valign="top">
-
-### 📱 CSE Web Portfolio Tracker
-
-Installable portfolio ledger with manual prices, Google sign-in, Firestore storage, and local offline cache.
-
-**HTML · JavaScript · Firebase**
-
-[View project →](https://github.com/j-kavindu/cse-portfolio-tracker)
 
 </td>
 </tr>
