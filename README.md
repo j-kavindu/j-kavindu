@@ -33,6 +33,12 @@ I build practical tools that turn accounting data into clear business decisions.
 
 ## Featured work
 
+<p align="center">
+  <a href="https://j-kavindu.github.io/cse-portfolio-tracker/"><img src="https://raw.githubusercontent.com/j-kavindu/cse-portfolio-tracker/main/assets/cse-mobile-dashboard.jpg" width="175" alt="CSE web tracker mobile dashboard" /></a>
+  <a href="https://github.com/j-kavindu/cse-portfolio-tracker#mobile-preview"><img src="https://raw.githubusercontent.com/j-kavindu/cse-portfolio-tracker/main/assets/cse-mobile-charts.jpg" width="175" alt="CSE web tracker mobile charts" /></a>
+</p>
+<p align="center"><a href="https://j-kavindu.github.io/cse-portfolio-tracker/">Try CSE Web Portfolio Tracker</a> · <a href="https://github.com/j-kavindu/cse-portfolio-tracker">Explore the code</a></p>
+
 <table>
 <tr>
 <td width="33%" valign="top">
