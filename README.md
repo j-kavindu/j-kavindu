@@ -91,6 +91,17 @@ See the repositories tab for additional accounting and finance tools.
 [View all repositories →](https://github.com/j-kavindu?tab=repositories)
 
 </td>
+<td width="33%" valign="top">
+
+### 📱 CSE Web Portfolio Tracker
+
+Installable portfolio ledger with manual prices, Google sign-in, Firestore storage, and local offline cache.
+
+**HTML · JavaScript · Firebase**
+
+[View project →](https://github.com/j-kavindu/cse-portfolio-tracker)
+
+</td>
 </tr>
 </table>
 
