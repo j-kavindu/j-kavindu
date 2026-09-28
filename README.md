@@ -65,19 +65,6 @@ Income, expenses, net profit, receivables, and budget-vs-actual reporting.
 </td>
 <td width="33%" valign="top">
 
-### 📈 CSE Portfolio Tracker
-
-Data-free portfolio template for holdings, dividends, sectors, and targets.
-
-**Excel · Financial analysis**
-
-[View project →](https://github.com/j-kavindu/cse-offline-excel-portfolio-tracker)
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
 
 ### 💰 Personal Finance
 
