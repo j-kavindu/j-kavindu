@@ -90,11 +90,13 @@ A browser-based Sri Lankan rupee exchange-rate reference tool with USD conversio
 </td>
 <td width="50%" valign="top">
 
-### 🚀 More projects
+### 📄 PDF Toolkit
 
-See the repositories tab for additional accounting and finance tools.
+Merge PDFs, remove selected pages, convert PDF pages to JPG, and combine JPG/PNG images into a PDF. Files are processed in your browser without being uploaded.
 
-[View all repositories →](https://github.com/j-kavindu?tab=repositories)
+**HTML · JavaScript · PDF.js · pdf-lib**
+
+[Open live app →](https://j-kavindu.github.io/pdf-toolkit/) · [View code →](https://github.com/j-kavindu/j-kavindu.github.io/tree/main/pdf-toolkit)
 
 </td>
 </tr>
@@ -106,6 +108,7 @@ See the repositories tab for additional accounting and finance tools.
 - Power BI dashboards for management reporting
 - Clear workflows for budgets, cash flow, and profitability
 - Practical projects that connect accounting concepts with everyday business problems
+- Browser-based document tools, including PDF merging and image conversion
 
 ## Tools
 
@@ -117,6 +120,7 @@ Public projects use fictional, synthetic, or anonymized data. Real personal, cli
 
 ## Connect
 
+- [Portfolio website](https://j-kavindu.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/jkavindu/)
 - [Facebook](https://web.facebook.com/j.kavindu/)
 - [GitHub](https://github.com/j-kavindu)
