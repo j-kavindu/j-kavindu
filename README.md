@@ -75,7 +75,9 @@ Synthetic LKR income and expense tracking with monthly analysis.
 [View project →](https://github.com/j-kavindu/personal-finance-tracker)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💱 USD → LKR Rate
 
@@ -86,7 +88,7 @@ A browser-based Sri Lankan rupee exchange-rate reference tool with USD conversio
 [View live tool →](https://j-kavindu.github.io/usd-lkr-rate/)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚀 More projects
 
