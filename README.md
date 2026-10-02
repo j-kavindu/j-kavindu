@@ -104,6 +104,15 @@ Merge PDFs, remove selected pages, convert PDF pages to JPG, and combine JPG/PNG
 
 ### My 24 · Native Android app
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/j-kavindu/my24/main/my24-home.jpg" width="230" alt="My 24 home screen with focus timer and daily tracking">
+  <img src="https://raw.githubusercontent.com/j-kavindu/my24/main/my24-analytics.jpg" width="230" alt="My 24 analytics screen with productivity and category time distribution">
+  <img src="https://raw.githubusercontent.com/j-kavindu/my24/main/my24-goals.jpg" width="230" alt="My 24 goals screen with countdowns and milestones">
+</p>
+
+Screenshots supplied by the developer. Displayed figures and goal entries illustrate the app interface.
+
+
 A productivity and daily planning app built with **Kotlin · Jetpack Compose · AdMob**. Includes banner and rewarded ads, with analytics access through a rewarded ad. Android 7.0+; distributed as a signed APK outside Google Play.
 
 [View project & installation guide →](https://github.com/j-kavindu/my24) · [Download v1.0.1 APK →](https://github.com/j-kavindu/my24/releases/download/v1.0.1/My24-v1.0.1.apk)
