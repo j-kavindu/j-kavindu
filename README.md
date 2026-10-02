@@ -106,7 +106,7 @@ Merge PDFs, remove selected pages, convert PDF pages to JPG, and combine JPG/PNG
 
 A productivity and daily planning app built with **Kotlin · Jetpack Compose · AdMob**. Includes banner and rewarded ads, with analytics access through a rewarded ad. Android 7.0+; distributed as a signed APK outside Google Play.
 
-[View project & installation guide →](https://github.com/j-kavindu/my24) · [Download v1.0.0 APK →](https://github.com/j-kavindu/my24/releases/download/v1.0.0/My24-v1.0.0.apk)
+[View project & installation guide →](https://github.com/j-kavindu/my24) · [Download v1.0.1 APK →](https://github.com/j-kavindu/my24/releases/download/v1.0.1/My24-v1.0.1.apk)
 
 ## What I am building
 
